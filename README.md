@@ -12,7 +12,7 @@
 █     Bartłomiej Krypczyk                    █
 █     CS Student @ Silesian University       █
 █     Specialization: Cybersecurity          █
-█     Location: Poland 🇵🇱                   █
+█     Location: Poland 🇵🇱                    █
 █                                            █
 █   > _                                      █
 █                                            █

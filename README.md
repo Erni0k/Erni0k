@@ -83,19 +83,6 @@ interests:
 | 📚 [LibMen](https://github.com/Erni0k/LibMen) | Django · PostgreSQL | Library management system with role-based access |
 | 🎬 [MovieRecommend](https://github.com/Erni0k/MovieRecommend) | Python | Movie recommendation engine |
 | 🌐 [TerminalWebsite](https://github.com/Erni0k/TerminalWebsite) | JavaScript | Terminal-style personal website |
-| ☁️ TechnologieChmurowe | Node.js · React · Azure · Terraform | CRUD task manager on Azure with CI/CD |
-
----
-
-### `$ top` — Currently Working On
-
-```
-PID   PROCESS                          STATUS
-001   Cybersecurity coursework         [████████░░] 80%
-002   Backend Internship search        [██████░░░░] 60%
-003   CTF Challenges (picoCTF/HTB)     [█████░░░░░] 50%
-004   AI Chatbot @ us.edu.pl           [███████░░░] 70%
-```
 
 ---
 

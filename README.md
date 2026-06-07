@@ -90,7 +90,7 @@ interests:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bartłomiej_Krypczyk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-krypczyk-8aaa67359/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bartłomiej_Krypczyk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-krypczyk/)
 [![GitHub](https://img.shields.io/badge/GitHub-Erni0k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erni0k)
 
 </div>

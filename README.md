@@ -30,7 +30,7 @@ name:         Bartłomiej Krypczyk
 alias:        Erni0k
 university:   University of Silesia (us.edu.pl)
 degree:       Computer Science — Cybersecurity
-status:       Student | Aspiring Backend Developer
+status:       Student
 interests:
   - Cybersecurity & Ethical Hacking
   - Backend Development
